@@ -73,7 +73,6 @@ function App() {
         onComplete={toggleTaskCompetedById}
         setTasksAndSave={setTasksAndSave}
       />
-      <div></div>
     </>
   );
 }
